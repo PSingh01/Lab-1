@@ -1,3 +1,3 @@
 # Lab-1
-Group 2: Pavandeep Singh
-         Thaddeus Dike
+EECE 321 - Lab 1 
+By: Pavandeep Singh and Thaddeus Dike    
